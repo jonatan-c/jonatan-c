@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 #61DAFB
+?style=for-the-badge&logo=appveyor
