@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Things I code with
+![](#61DAFB)
+![](https://www.google.com/?hl=es)
 
 **jonatan-c/jonatan-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#61DAFB
-?style=for-the-badge&logo=appveyor
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
