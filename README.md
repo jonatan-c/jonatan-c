@@ -1,8 +1,8 @@
 
 <p>Hola!</br>
-
-## Soy Jonatan, Fullstack developer de Argentina
-
+<!-- 
+## Soy Jonatan, Fullstack developer de Argentina -->
+<!-- 
 <h3>Tengo habilidades en:</h3>
 <p>
     
@@ -32,7 +32,7 @@
     <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
     </p>
-    
+     -->
 </p>
 
 <!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
