@@ -1,5 +1,11 @@
 
 <p>Hola!</br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats)
+
+https://github.com/jonatan-c
 <!-- 
 ## Soy Jonatan, Fullstack developer de Argentina -->
 <!-- 
