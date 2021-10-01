@@ -1,7 +1,7 @@
 <p>Hola!</br>
 
 ## Soy Jonatan Claros, developer de Argentina 
-<!--  
+
 <h3>Tengo habilidades en:</h3>
 <p>  
     
@@ -35,7 +35,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) 
 
 <!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
