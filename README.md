@@ -33,7 +33,8 @@
     </p>
 </p>
 
-
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<!-- #0A66C2 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) 
 
