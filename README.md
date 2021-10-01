@@ -33,12 +33,18 @@
     </p>
 </p>
 
-**Contacto**
+**Contacto** (Click derecho y abrir en nueva pestaña)
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-<!-- #0A66C2 -->
+[LinkedIn](https://www.linkedin.com/in/jonatan-claros/)
+
+[Portafolio Web](https://portafolio-jonatan-claros.netlify.app/)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) 
+
+
+
+
 
 <!--   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
