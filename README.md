@@ -37,7 +37,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/jonatan-claros/)
 
-[Portfolio Web](https://portafolio-jonatan-claros.netlify.app/)
+[Portfolio Web](https://portfolio-jonatan-claros.netlify.app/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) 
