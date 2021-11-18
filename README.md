@@ -1,6 +1,6 @@
 <p>Hola!</br>
 
-<!-- ## Soy Jonatan Claros, developer de Argentina 
+ ## Soy Jonatan Claros, developer de Argentina 
 
 <h3>Tengo habilidades en:</h3>
 <p>  
@@ -40,7 +40,7 @@
 [Portfolio Web](https://portfolio-jonatan-claros.netlify.app/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats)  -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatan-c)](https://github.com/jonatan-c/github-readme-stats) 
 
 
 
