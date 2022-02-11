@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan Claros</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer with a backend orientation. from Argentina</h3>
 
 
 
