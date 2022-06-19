@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan Claros</h1>
-<h3 align="center">A passionate Full Stack Developer (Node/React) with a backend orientation. from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer (Node/React) with a Frontend orientation. from Argentina</h3>
 
 
 
