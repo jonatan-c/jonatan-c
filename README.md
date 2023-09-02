@@ -2,21 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer (Node/React) with a Frontend orientation. from Argentina</h3>
 
 
-
-<h3 align="left">Algunos proyectos</h3>
-
-✔️ [Backend Restaurante](https://github.com/jonatan-c/acamica-sprint1)
-
-✔️ [FrontEnd y BackEnd Lista de tareas con usuarios](https://github.com/jonatan-c/crud-login-mern-servidor)
-
-✔️ [FrontEnd y BackEnd Lista de alumnos](https://github.com/jonatan-c/rest-api-mongodb-cliente)
-
-✔️ [Backend Lista Ecommerce](https://github.com/jonatan-c/ecommerce-api)
-
-
-
-
-
 <p>  
  
  **Backend**
